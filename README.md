@@ -1,2 +1,2 @@
-# My1stRepository
+# My1stRepository 👋
 My first repository
